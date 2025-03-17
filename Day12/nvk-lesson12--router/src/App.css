@@ -1,0 +1,41 @@
+body {
+
+  color: black;
+  text-align: center;
+}
+h1, h2 {
+  color: black;
+}
+table {
+  margin: auto;
+  border-collapse: collapse;
+  width: 80%;
+  background-color: white;
+  color: black;
+}
+a {
+  text-decoration: none;
+  padding: 8px 15px;
+  margin: 5px;
+  border-radius: 5px;
+  display: inline-block;
+  font-weight: bold; /* Làm đậm chữ */
+  text-align: center;
+  transition: transform 0.3s ease, background-color 0.3s ease, border-color 0.3s ease, color 0.3s ease;
+  border: 2px solid black; /* Viền đen trước khi hover */
+  color: black; /* Chữ đen để dễ đọc */
+  background-color: white; /* Nền trắng để chữ nổi bật */
+}
+
+a:hover {
+  transform: scale(1.1); /* Phóng to khi hover */
+  background-color: red; /* Đổi nền thành màu đỏ */
+  color: black; /* Chữ trắng để nổi bật trên nền đỏ */
+  border-color: yellow; /* Viền vàng khi hover */
+}
+
+
+th, td {
+  border: 1px solid black;
+  padding: 10px;
+}
