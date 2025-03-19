@@ -1,0 +1,32 @@
+{
+    "users":[
+        {
+            "NvkFullname":"Nguyen Van Khanh",
+            "NvkEmail":"khanhvank9t727@gmail.com",
+            "NvkPhone":"0984915173",
+            "NvkActive":true,
+            "NvkId":"2310900047"
+        },
+        {
+            "NvkFullname":"Nguyen Van Khan",
+            "NvkEmail":"khanhvank9t72@gmail.com",
+            "NvkPhone":"098491517",
+            "NvkActive":true,
+            "NvkId":"231090004"
+        },
+        {
+            "NvkFullname":"Nguyen Van Kha",
+            "NvkEmail":"khanhvank9t7@gmail.com",
+            "NvkPhone":"09849151",
+            "NvkActive":false,
+            "NvkId":"23109000"
+        },
+        {
+            "NvkFullname":"Nguyen Van Kh",
+            "NvkEmail":"khanhvank9t@gmail.com",
+            "NvkPhone":"0984915",
+            "NvkActive":true,
+            "NvkId":"2310900"
+        }
+    ]
+}
